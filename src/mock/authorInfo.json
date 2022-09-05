@@ -1,0 +1,47 @@
+[
+    {
+        "id": "4",
+        "author_code":"111",
+        "name":"刘全有",
+        "photo": "/images/1.jpg",
+        "author_org":"新华日报",
+        "idcard_no":"411327198706254249",
+        "author_desc":"特邀评论员",
+        "creat_time":"2022-07-18 22:42:03",
+        "update_time":"2022-07-20 22:42:03"
+    },
+    {
+        "id": "3",
+        "author_code":"112",
+        "name":"刘飞",
+        "photo": "/images/2.jpg",
+        "author_org":"华中师范大学",
+        "idcard_no":"141130198509277099",
+        "author_desc":"文学院教授",
+        "creat_time":"2022-07-18 22:42:03",
+        "update_time":"2022-07-20 22:42:03"
+    },
+    {
+        "id": "2",
+        "author_code":"111",
+        "name":"王五",
+        "photo": "/images/3.jpg",
+        "author_org":"高等教育出版社",
+        "idcard_no":"430900198306141777",
+        "author_desc":"专业评论人",
+        "creat_time":"2022-07-18 22:42:03",
+        "update_time":"2022-07-20 22:42:03"
+    },
+    {
+        "id": "1",
+        "author_code":"110",
+        "name":"张三",
+        "photo": "/images/4.jpg",
+        "author_org":"高等教育出版社",
+        "idcard_no":"430900198306141777",
+        "author_desc":"首席编辑",
+        "creat_time":"2022-07-18 22:42:03",
+        "update_time":"2022-07-20 22:42:03"
+    }
+
+]
